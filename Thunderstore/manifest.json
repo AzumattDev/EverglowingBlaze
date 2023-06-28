@@ -1,0 +1,9 @@
+{
+  "name": "EverglowingBlaze",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/AzumattDev/EverglowingBlaze",
+  "description": "Client side mod that makes fires never be considered wet or extinguished by wind.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}
