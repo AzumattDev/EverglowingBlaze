@@ -1,6 +1,6 @@
 {
   "name": "EverglowingBlaze",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/AzumattDev/EverglowingBlaze",
   "description": "Client side mod that makes fires never be considered wet or extinguished by wind.",
   "dependencies": [

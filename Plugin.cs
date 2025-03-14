@@ -9,7 +9,7 @@ namespace EverglowingBlaze
     public class EverglowingBlazePlugin : BaseUnityPlugin
     {
         internal const string ModName = "EverglowingBlaze";
-        internal const string ModVersion = "1.0.3";
+        internal const string ModVersion = "1.0.4";
         internal const string Author = "Azumatt";
         private const string ModGUID = Author + "." + ModName;
         private readonly Harmony _harmony = new(ModGUID);
